@@ -1,0 +1,6 @@
+# Normalize line endings
+**/*.py linguist-detectable
+*.min.css linguist-generated
+*.jpeg binary
+static/* linguist-vendored
+*.py linguist-detectable
