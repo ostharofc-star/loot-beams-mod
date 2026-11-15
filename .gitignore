@@ -1,0 +1,8 @@
+build/
+env/
+*.py[cod]
+.mypy_cache/
+.venv/
+.coverage
+*.egg-info/
+.pytest_cache/
